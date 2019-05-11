@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^plugins(/.*|)$ $1 [L,NC]  

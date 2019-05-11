@@ -1,0 +1,26 @@
+div.vertical{
+  border-left: 1px solid black;
+}
+.content{
+	margin-left: 10px !important;
+	margin-right: 10px !important;
+}
+.special input textarea {
+	width: 90%;
+}
+.special label {
+	color: white;
+}
+.centered {
+	align-items:center;
+	justify-content: center;
+}
+/**/
+.login-centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+/*pls save*/ 
